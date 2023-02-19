@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+environs = "==9.5.0"
+aiogram = "~=2.23"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11.1"
